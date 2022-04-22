@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100&family=Roboto+Condensed:wght@300&display=swap');
+.shapka {
+    position: absolute;
+    width: 100%;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+    background-color: #2cd448;
+}
+.one{
+    position: absolute;
+    width: 50px;
+    height: 43px;
+    left: 1000px;
+    top: 32px;
+}
+.h1{
+    position: absolute;
+    width: 239px;
+    height: 18px;
+    left: 90px;
+    top: 30px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 24px;
+
+    color: #000000;
+}
+.h2{
+    position: absolute;
+    width: 101px;
+    height: 12px;
+    left: 360px;
+    top: 40px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 24px;
+
+    color: #000000;
+}
+.h3{
+    position: absolute;
+    width: 69px;
+    height: 9px;
+    left: 590px;
+    top: 40px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 24px;
+
+    color: #000000;
+}
+.h4{
+    position: absolute;
+    width: 144px;
+    height: 11px;
+    left: 780px;
+    top: 40px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 24px;
+
+    color: #000000;
+}
+.dli{
+    position: absolute;
+    width: 58px;
+    height: 54px;
+    left: 280px;
+    top: 410px;
+}
+.two{
+    position: absolute;
+    width: 1144px;
+    height: 800px;
+    left: -10px;
+    top: 100px;
+    
+}
+.shi{
+    position: absolute;
+    width: 58px;
+    height: 54px;
+    left: 280px;
+    top: 470px;
+}
+.dlin{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 215px;
+    top: 410px;
+}
+.shir{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 215px;
+    top: 470px;
+}
+h2{
+    position: absolute;
+    height: 40px;
+    left: 215px;
+    top: 505px;
+}
+.test{
+    position: absolute;
+    width: 100px;
+    height: 40px;
+    left: 380px;
+    top: 445px;
+}
+.text{
+    position: absolute;
+    width: 198px;
+    height: 132px;
+    left: 549px;
+    top: 405px;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}

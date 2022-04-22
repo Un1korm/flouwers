@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100&family=Roboto+Condensed:wght@300&display=swap');
+.shapka {
+    position: absolute;
+    width: 100%;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+    background-color: #2cd448;
+}
+.one{
+    position: absolute;
+    width: 50px;
+    height: 43px;
+    left: 1000px;
+    top: 32px;
+}
+h1{
+    position: absolute;
+    width: 239px;
+    height: 18px;
+    left: 90px;
+    top: 5px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 24px;
+
+    color: #000000;
+}
+.h2{
+    position: absolute;
+    width: 101px;
+    height: 12px;
+    left: 360px;
+    top: 40px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 24px;
+
+    color: #000000;
+}
+.h3{
+    position: absolute;
+    width: 69px;
+    height: 9px;
+    left: 590px;
+    top: 40px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 24px;
+
+    color: #000000;
+}
+.h4{
+    position: absolute;
+    width: 144px;
+    height: 11px;
+    left: 780px;
+    top: 40px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 24px;
+
+    color: #000000;
+}
+.two{
+    position: absolute;
+    width: 100%;
+    height: 750px;
+    left: 0px;
+    top: 100px;
+}
+h2{
+    position: absolute;
+    width: 459px;
+    height: 25px;
+    left: 600px;
+    top: 140px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 39px;
+
+    color: #000000;
+}
+.nachalo{
+    position: absolute;
+    width: 517px;
+    height: 207px;
+    left: 500px;
+    top: 230px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+.konec{
+    position: absolute;
+    width: 538px;
+    height: 195px;
+    left: 270px;
+    top: 470px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+.h5{
+    position: absolute;
+    width: 162px;
+    height: 29px;
+    left: 60px;
+    top: 10px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 29px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+}
+.info{
+    position: absolute;
+    width: 248px;
+    height: 46px;
+    left: 400px;
+    top: 700px;
+
+    background: rgba(235, 28, 28, 0.74);
+    border-radius: 30px;
+}
